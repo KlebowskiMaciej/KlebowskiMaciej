@@ -5,7 +5,7 @@ I'm Maciej from Poland🇵🇱. I study Telecomunication at the Gdansk Universit
 🦾  Skills:
 
 
-![alt text](https://github.com/KlebowskiMaciej/README/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/KlebowskiMaciej/KlebowskiMaciej/blob/main/python.png?raw=true)
 
 
 

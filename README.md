@@ -2,9 +2,7 @@
 
 I'm Maciej from Poland🇵🇱. I study Telecomunication at the Gdansk University of Technology. I'm looking for my branch and my language. 
 
-🦾  Skills:
-
-
+🦾  Skills: 
 ![alt text](https://github.com/KlebowskiMaciej/KlebowskiMaciej/blob/main/c-.png?raw=true)
 ![alt text](https://github.com/KlebowskiMaciej/KlebowskiMaciej/blob/main/css.png?raw=true)
 ![alt text](https://github.com/KlebowskiMaciej/KlebowskiMaciej/blob/main/html-5.png?raw=true)

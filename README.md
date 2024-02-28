@@ -9,8 +9,8 @@ I work as a FullStack Developer/Software Engineer.
 ### Technologies I'm Familiar With:
 
 - **C#**
-- **CSS**
-- **HTML5**
+- **Node.js**
+- **React.js**
 - **Java**
 - **JavaScript**
 - **Python**
@@ -18,11 +18,12 @@ I work as a FullStack Developer/Software Engineer.
 - **GitLab**
 - **Jenkins**
 - **PowerShell**
+- **CSS**
+- **HTML5**
 - **Linux**
 - **Mac OS**
 - **Windows**
-- **Node.js**
-- **React.js**
+
 
 ### GitHub Stats
 

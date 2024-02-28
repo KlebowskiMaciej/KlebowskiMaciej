@@ -2,7 +2,9 @@
 
 ### Hi there! 👋
 
-I'm Maciej from Poland 🇵🇱. I completed my Bachelor's studies at Gdańsk University of Technology in Poland. Currently, I work as a FullStack Developer/Software Engineer.
+I'm Maciej from Poland 🇵🇱. 
+I completed my Bachelor's studies at Gdańsk University of Technology in Poland. Currently, 
+I work as a FullStack Developer/Software Engineer.
 
 ### Technologies I'm Familiar With:
 
